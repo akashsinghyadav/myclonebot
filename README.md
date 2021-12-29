@@ -14,7 +14,7 @@
     <a href="https://www.python.org">
         <img src="https://img.shields.io/badge/PYTHON-PROJECT-blueviolet?style=for-the-badge&logo=python">
     </a><br>
-    <a href="https://github.com/m4mallu/clonebot/stargazers">
+    <a href="https://github.com/m4mallu/clonebot/akashasyyadav">
         <img src="https://img.shields.io/github/stars/m4mallu/clonebot?style=social">
     </a>
     <a href="https://github.com/m4mallu/clonebot/fork">
